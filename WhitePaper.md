@@ -56,7 +56,7 @@ This document is neither an offer to sell, nor a solicition of offers to buy, SP
 
 ### Issuer Participation
 
-You should be an Accredited Investor or Qualifed Investor as such terms are specified by the U.S. Securities and Exchange Commission regulations to be in order to buy SPARK tokens from its issuer. 
+You should be an Accredited Investor or Qualified Investor as such terms are specified by the U.S. Securities and Exchange Commission regulations to be in order to buy SPARK tokens from its issuer. 
 
 In other words, the issuer of SPARK is only interested in taking investment from Accredited Investors and Qualifed Investors at this time. This is hoped to change in the future to provide more investment opportunity and more liquidity. 
 
