@@ -8,11 +8,11 @@ version 1.0b (markdown formatted for GitHub)
 
 * * * * *
 
-### Executive Overview
+### Executive Overview and Lineage
 
 Fee structures can now be embedded in code and “enforced” by the blockchain, reducing audit, compliance, and other operational costs.
 
-SPARK token is an asset-backed and blockchain-traded token. SPARK was initially pre-mined on the BitShares blockchain in 2017 by Ben Bird.
+SPARK token is an asset-backed and blockchain-traded token. SPARK was created and pre-mined on the BitShares blockchain 5 July 2017 at block height 18034552 as asset id `1.3.1470`.
 
 SPARK tokens may be traded (e.g. bought and sold) via the BitShares blockchain system. The BitShares Decentralized Exchange (DEX) is the preferred venue for market activity in SPARK tokens due to low latency confirmation and other technical and systemic considerations.
 
@@ -26,6 +26,16 @@ Ben Bird and his team are working to increase the value of the SPARK fund so tha
 
 You are invited to join us as we navigate the explosive new world of digital assets starting with SPARK tokens!
 
+### Basic Facts
+
+Coin Name:	Spark
+BitShares ID: 1.3.1470
+
+As of July 4 2018:
+
+Total Authorized Coins: 100,000,000 spark
+Issued and Outstanding:    5,150,600 spark
+Maximum Market Fee:			50 spark
 
 ### Business Development 
 
@@ -58,8 +68,7 @@ This document is neither an offer to sell, nor a solicition of offers to buy, SP
 
 You should be an Accredited Investor or Qualified Investor as such terms are specified by the U.S. Securities and Exchange Commission regulations to be in order to buy SPARK tokens from its issuer. 
 
-In other words, the issuer of SPARK is only interested in taking investment from Accredited Investors and Qualifed Investors at this time. This is hoped to change in the future to provide more investment opportunity and more liquidity. 
+In other words, the issuer of SPARK is only interested in taking investment from Accredited Investors and Qualifed Investors due to the arguably onerous ICO environment in the United States at this time. This is hoped to change in the future to provide more investment opportunity and more liquidity. 
 
 This document is neither an offer to sell, nor a solicition of offers to buy, SPARK tokens.
-
 
